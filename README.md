@@ -8,3 +8,6 @@ python functional_tests.py
 
 ## Rodar testes de unidade
 python manage.py test
+
+## Construir migração de banco de dados
+python manage.py makemigrations
